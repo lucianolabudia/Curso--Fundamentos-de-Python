@@ -12,8 +12,20 @@
 * Variables
 
 ### Tipos de datos en Python
+* Tipos de datos
+* Strings
+* Numbers
+* Booleans
+* Transformación de tipos
 
 ### Operadores y condicionales
+* Operadores aritméticos
+* Operadores de comparación
+* Comparación de números flotantes
+* Operadores lógicos: and y or
+* Operador lógico not
+* Condicionales
+* Proyecto: condicionales
 
 ### Listas y diccionarios
 
