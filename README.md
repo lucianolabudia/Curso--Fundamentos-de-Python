@@ -5,6 +5,11 @@
 ## Temario y recursos del Curso de Python
 
 ### Primeros pasos con Python
+* ¿Por qué aprender Python?
+* Herramientas del curso
+* Herramientas para programar con Python
+* Tu primer programa
+* Variables
 
 ### Tipos de datos en Python
 
