@@ -28,7 +28,19 @@
 * Proyecto: condicionales
 
 ### Listas y diccionarios
+* String recargado
+* Indexing y slicing
+* Listas
+* Métodos de listas
+* Tuplas
+* Proyecto: tuplas
+* Diccionarios: definición y lectura
+* Diccionarios: inserción y actualización
 
 ### Ciclos
+* Loops: While
+* Loops: For
+* Ciclos anidados
 
 ### Cierre
+* Proyecto: aplicando ciclos
